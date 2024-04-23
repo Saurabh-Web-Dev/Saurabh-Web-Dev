@@ -4,11 +4,11 @@
 <img width="400" align="right" src = "https://raw.githubusercontent.com/Saurabh-Web-Dev/Saurabh-Web-Dev/main/Saurabh-Web-Dev.gif" alt="Saurabh-Web-Dev"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-web-dev&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-web-dev" /> </p>
 
-- 🔭 I’m currently working on [QR-Base Attendance](https://github.com/Saurabh-Web-Dev/ESR-QR)
+- 🔭 I’m currently working on **Leads Management System**
 
 - 🌱 I’m currently learning **React,Node.js,MongoDB**
 
-- 🔭 I’m Have worked on **Leads Management System**
+- 🔭 I’m Have worked on **QR-Base Attendance**
 
 - 🤝 Singapore Government API Project **Training Management System**
 
@@ -21,7 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saurabh-singh-b456bb1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-singh-b456bb1b7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/programmersaurabhsingh9780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programmersaurabhsingh9780" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
